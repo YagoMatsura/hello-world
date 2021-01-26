@@ -1,2 +1,2 @@
 # hello-world
-My fisrt repo
+My name is yago, i am a softwware engineering and law student.
